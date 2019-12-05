@@ -1,6 +1,6 @@
 package com.java;
 
-class sample
+class sampless
 {
 	int a=10; //class level variable
 	float b=20.5f;  //class level variable
@@ -26,7 +26,7 @@ public class VariableScope {
 
 	public static void main(String[] args) {
 
-		sample s=new sample();
+		sampless s=new sampless();
 		s.testVariableScope();
 
 	}
